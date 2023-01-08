@@ -1,0 +1,28 @@
+id: A114B16C3
+title: The Prayer that Swiftly Fulfils All Wishes (Sampa Nyur Drupma)
+type: translation
+pechas:
+- I9070D0A2
+- IF24C0B26
+- I4CDCA1CF
+- I64EF7545
+- I604C181D
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:59:13.967911
+  last_modified_at: 2023-01-04 12:59:13.967932
+  collections:
+  - Longchen Rabjam Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I9070D0A2/BAE0: 588A
+  IF24C0B26/7B78: 588A
+  I4CDCA1CF/5DE7: 588A
+  I64EF7545/6142: 588A
+  I604C181D/A4D6: 588A
